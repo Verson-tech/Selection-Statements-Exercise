@@ -1,0 +1,15 @@
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\obj\Debug\net6.0\SelectionStatementsExerscise.csproj.AssemblyReference.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\obj\Debug\net6.0\SelectionStatementsExerscise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\obj\Debug\net6.0\SelectionStatementsExerscise.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\obj\Debug\net6.0\SelectionStatementsExerscise.AssemblyInfo.cs
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\obj\Debug\net6.0\SelectionStatementsExerscise.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\bin\Debug\net6.0\SelectionStatementsExerscise.exe
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\bin\Debug\net6.0\SelectionStatementsExerscise.deps.json
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\bin\Debug\net6.0\SelectionStatementsExerscise.runtimeconfig.json
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\bin\Debug\net6.0\SelectionStatementsExerscise.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\bin\Debug\net6.0\SelectionStatementsExerscise.pdb
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\obj\Debug\net6.0\SelectionStatementsExerscise.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\obj\Debug\net6.0\refint\SelectionStatementsExerscise.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\obj\Debug\net6.0\SelectionStatementsExerscise.pdb
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\obj\Debug\net6.0\SelectionStatementsExerscise.genruntimeconfig.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\SelectionStatementsExerscise\SelectionStatementsExerscise\obj\Debug\net6.0\ref\SelectionStatementsExerscise.dll
